@@ -9,3 +9,7 @@ Simplifying the process of setting up development environments and using main de
 ### :high_brightness: Notice 
 
 This project is still a work in progress, i am continuously adding new tools and improving existing scripts.
+
+### :pushpin: Current Tools Covered
+- [x] Docker
+- [x] Pyenv
