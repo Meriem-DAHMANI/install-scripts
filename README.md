@@ -5,3 +5,7 @@ This repository contains a collection of bash scripts designed to automate the i
 ### :pushpin: What is it for ?
 
 This repository simplifies setting up development environments by providing a range of handy installation scripts along with a quick reference to main commands 
+
+### :high_brightness: Notice 
+
+This project is still a work in progress, i am continuously adding new tools and improving existing scripts.
