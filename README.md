@@ -1,6 +1,6 @@
 ### :pushpin: Installation Scripts
 
-This repository contains a collection of bash scripts designed to automate the installation of various tools and software. Each script includes all the necessary commands to quickly set up and configure different environments on a new machine.
+This repository contains a collection of bash scripts designed to automate the installation of various tools. For each tool, it includes a bash installation script along with another file containing quick usage commands.
 
 ### :pushpin: What is it for ?
 
