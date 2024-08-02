@@ -17,16 +17,16 @@ pyenv virtualenvs
 
 ### Activate or deactivate virtualenv
 ```
-pyenv activate my-virtual-env-3.12.2
+pyenv activate <env-name>
 ```
 ```
-pyenv deactivate
+pyenv deactivate <env-name>
 ```
 
 
 ### Delete virtualenv
 ```
-pyenv uninstall my-virtual-env-3.12.2
+pyenv uninstall <env-name>
 ```
 
 ### Show the current Python version and its origin
