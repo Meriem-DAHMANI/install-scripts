@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Step 1: Update apt package index
+# Step 1:Update apt package index
 sudo apt update
 
 # Step 2: Install dependencies
